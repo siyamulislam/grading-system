@@ -1,0 +1,35 @@
+1.	Name	: Siyamul_Islam	
+	ID	: 171-15-8865	
+	Dept	: CSE
+	Section	: 'O'
+	Grade	: A-
+
+
+2.	Name	: Imrul_Hassan	
+	ID	: 171-15-9219	
+	Dept	: CSE
+	Section	: 'O'
+	Grade	: A
+
+
+3.	Name	: Kamrul_Islam	
+	ID	: 171-15-8841	
+	Dept	: CSE
+	Section	: 'O'
+	Grade	: A
+
+
+4.	Name	: Eusuf_Uddin	
+	ID	: 171-15-8926	
+	Dept	: CSE
+	Section	: 'O'
+	Grade	: A-
+
+
+5.	Name	: Shubel_Islam	
+	ID	: 171-15-8622	
+	Dept	: CSE
+	Section	: 'O'
+	Grade	: A-
+
+

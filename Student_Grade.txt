@@ -1,0 +1,56 @@
+
+1.
+	Student ID	: 7
+	Student name	: 6jkj
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 66.00
+	Grade		: A- 
+
+2.
+	Student ID	: 8
+	Student name	: jhjhj
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 68.00
+	Grade		: A- 
+
+3.
+	Student ID	: 6
+	Student name	: jmjyhm
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 77.00
+	Grade		: A 
+
+4.
+	Student ID	: 4
+	Student name	: juju
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 67.00
+	Grade		: A- 
+
+5.
+	Student ID	: 9
+	Student name	: lllllj,
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 678.00
+	Grade		: A+ 
+
+6.
+	Student ID	: 99
+	Student name	: kki
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 77.00
+	Grade		: A 
+
+7.
+	Student ID	: 78
+	Student name	: ki,jm
+	Department of	: CSE
+	Section 	: 'O'
+	Average marks	: 7798.00
+	Grade		: A+ 
